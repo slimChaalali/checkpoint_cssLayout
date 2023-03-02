@@ -399,7 +399,23 @@ option{
     font-weight: bolder; 
     text-align: center;
     border-radius: 4px;
-    margin-bottom: 5% ;
+    margin-bottom: 7% ;
     cursor: pointer;
 
+}
+footer{
+    text-align: center;
+    border-top: 1px solid #EEF2F2;
+    
+}
+footer p{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    color: #ABABAB;
+    font-size: 14px;
+    line-height: 20px;
+
+}
+footer p a{
+    color: #3D83DF;
 }
