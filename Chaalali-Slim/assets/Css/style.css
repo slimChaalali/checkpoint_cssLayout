@@ -421,3 +421,19 @@ footer p {
 footer p a {
   color: #3d83df;
 }
+
+
+@media only screen and (max-width: 1366px) {
+.second-line {
+  margin-left: 75%;
+  
+}
+.stats{
+  margin-top: 33%;
+}
+.stats img {
+  padding-top: 9.7%;
+ 
+}
+}
+
